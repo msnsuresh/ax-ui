@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "currency": "USD",
+  "highest": 200.0,
+  "lowest": 25.0,
+  "open": 142.1,
+  "high": 143.5,
+  "low": 142.0,
+  "close": 142.25,
+  "prevClose": 140.0,
+  "difference": 2.25,
+  "percentage": 1.61,
+  "trend": "UP"
+}
